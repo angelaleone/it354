@@ -1,3 +1,4 @@
+/* Names: Angela Leone and Brandon Kaszuba */
 const board = [
     [0,0,0,0],
     [0,0,0,0],
